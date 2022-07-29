@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(251, 255, 196);
+}
+h1{
+    font-style: normal;
+    font-size: x-large;
+    margin: 128px 277px 30px 150px;
+}
+
+h2{
+    font-style: oblique;
+    font-size: x-large;
+    margin-left: 200px;
+}
